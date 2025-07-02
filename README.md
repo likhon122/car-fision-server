@@ -2,11 +2,10 @@
 
 Welcome to NS Book Shop, your one-stop destination for high-quality books, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
 
-
 ### 🌐 Live Demo
-🔗 Live Link: Visit NS Book Shop ([#Ns Books](https://stationery-shop-dusky.vercel.app/))
-🔗 Server Link: Visit NS Book Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
 
+🔗 Live Link: Visit NS Book Shop ([#Car Fishion](https://carfision.vercel.app/))
+🔗 Server Link: Visit NS Book Shop ([#Server](https://stationery-shop-server-main-nu.vercel.app))
 
 ### 🚀 Features
 
@@ -14,35 +13,21 @@ Welcome to NS Book Shop, your one-stop destination for high-quality books, arts 
 
 🔍 Search Functionality: Quickly find the exact item you need.
 
-🏷️ Category-Based Sorting: Browse through Books, Arts & Crafts, Stationery, and Classroom Supplies.
+🏷️ Category-Based Sorting: Browse through Cars in deferent types.
 
 🔒 User Authentication: Secure login and sign-up system.
 
-💳 Payment Integration: Seamless checkout with multiple payment options.
+💳 Payment Integration: Seamless checkout with multiple payment options (Surjopay).
 
 📝 Customer Reviews & Ratings: Users can leave feedback on products.
 
 📞 Contact & Support: Reach out to us via the contact section.
 
-
 ### 📂 Categories
 
-📖 Books
+📖 Cars
 
-A vast collection of books, including educational, fiction, non-fiction, and more.
-
-🎨 Arts and Crafts
-
-Premium art supplies such as paints, brushes, sketchbooks, and DIY kits.
-
-🖊️ Stationery
-
-High-quality pens, notebooks, markers, and other writing essentials.
-
-🏫 Classroom Supplies
-
-All necessary materials for teachers and students, including whiteboards, charts, and organizers.
-
+A vast collection of cars, Sedan, SUV, Truck, Coupe, Convertible
 
 ### 🛠️ Installation & Setup
 
@@ -52,6 +37,8 @@ Node.js & npm installed
 
 React.js for the frontend
 
+Payment integration with Surjopay (if applicable)
+
 Typescript, Express.js & Mongoose for the backend (if applicable)
 
 Steps to Run Locally
@@ -59,8 +46,9 @@ Steps to Run Locally
 Clone the repository
 
 ```bash
-git clone https://github.com/Moniruzzaman2525/Stationery-Shop.git for Frontend
-cd Stationery-Shop
+git clone https://github.com/likhon122/car-fision-frontend for Frontend
+cd car-fision-frontend
+
 
 Install dependencies
 
@@ -78,8 +66,8 @@ http://localhost:5173
 ```
 
 ```bash
-git clone https://github.com/Moniruzzaman2525/stationery_shop_server.git for Backend
-cd stationery_shop_server
+git clone https://github.com/likhon122/car-fision-server for Backend
+cd car-fision-server
 
 Install dependencies
 
@@ -90,19 +78,17 @@ Start the development server
 npm run start:dev
 ```
 
-
 ### 🛒 Technologies Used
 
 Frontend: React.js, Redux, Typescript, Tailwind CSS, Stripe
 
-Backend: Typescript, Express.js, Mongoose (if applicable)
+Backend: Typescript, Express.js, Mongoose
 
-Database: MongoDB (if applicable)
+Database: MongoDB
 
-Authentication: JWT (if applicable)
+Authentication: JWT
 
-Payment Integration: Stripe (if applicable)
-
+Payment Integration: Surjopay
 
 ### 🤝 Contributing
 
@@ -118,14 +104,12 @@ Push to GitHub (git push origin feature-name)
 
 Open a Pull Request
 
-
 ### 📞 Contact
 
 For inquiries or support, reach out to:
 
-📧 Email: web.moniruzzaman1@gmail.com
+📧 Email: md.likhonislam2x@gmail.com
 
-📍 Address: 2100 Sherpur, Bangladesh
+📍 Address: Kushtia, Khulna, Bangladesh
 
-Made with ❤️ by Md Moniruzzaman
-
+Made with ❤️ by Md Likhon Islam
